@@ -1,5 +1,8 @@
-<h1 align="center">Hi there, I'm Vikneysh Raj G G A</h1>
-<h3 align="center">I’m interested in trying my hand out at many things</h3>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=40&pause=1000&width=435&height=70&lines=Vikneysh+Raj+G+G+A" alt="Typing SVG" /></p>
+
+
+
+
 
 - 🌱 I’m currently pursuing **the final year of my B.Tech degree**
 
