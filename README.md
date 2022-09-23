@@ -10,7 +10,7 @@
 
 - 📝 I scribble my thoughts on [https://medium.com/@vikneysh](https://medium.com/@vikneysh)
 
-- 📫 Reach me through **vikneysh@gmail.com**
+- 📫 Reach me through **vikneysh@gmail.com** / **vikneysh@outlook.com**
 
 
 <h3 align="left">Connect with me:</h3>
