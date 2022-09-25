@@ -18,8 +18,8 @@
 <a href="https://linkedin.com/in/vikneysh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikneysh" height="30" width="40" /></a>
 <a href="https://instagram.com/vik.neyss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vik.neyss" height="30" width="40" /></a>
 <a href="https://medium.com/@vikneysh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vikneysh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17102871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17102871" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Latest on Medium:</h3>
 
 [![Medium](https://github-readme-medium.vercel.app/?username=vikneysh&limit=3)](https://medium.com/@vikneysh)
