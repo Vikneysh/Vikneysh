@@ -4,7 +4,7 @@
 
 
 
-- 🌱 B.Tech. Information Technology, B. A. English**
+- 🌱 B.Tech. Information Technology, B. A. English
 
 - 💞️ I love to connect and collaborate with people
 
