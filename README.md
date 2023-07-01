@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently pursuing **the final year of my B.Tech degree**
+- 🌱 B.Tech. Information Technology, B. A. English**
 
 - 💞️ I love to connect and collaborate with people
 
